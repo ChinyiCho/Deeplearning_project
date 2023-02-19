@@ -1,4 +1,5 @@
-# Deeplearning_project--Using electrocardiogram to predict different types of acute stroke 
+# Deep learning_project
+##---Using electrocardiogram to predict different types of acute stroke 
 
 Hello there\
 This repository holds my programing projects done during the period of stanCode SC201 course.
