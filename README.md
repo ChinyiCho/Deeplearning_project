@@ -18,4 +18,7 @@ Watch my *[Presentation ppt](https://github.com/ChinyiCho/Deeplearning_project/b
 Hello there\
 This repository holds my programing projects done during the period of NYCU(National Yang Ming Chiao Tung University)credit course.
 
-Watch my *[Presentation ppt](https://github.com/ChinyiCho/Deeplearning_project/blob/main/project/presentation_GroupB_ECG_0730.pptx)
+Watch my *[Presentation ppt](https://github.com/ChinyiCho/Deeplearning_project/blob/main/16_presentation.pptx)
+## Project Source Codes:
+* [Main code](https://github.com/ChinyiCho/Deeplearning_project/blob/main/main.py)
+* [Deep learning resnet50 Code](https://github.com/ChinyiCho/Deeplearning_project/blob/main/deeplearning_resnet50_predict.ipynb)
