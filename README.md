@@ -12,3 +12,10 @@ Watch my *[Presentation ppt](https://github.com/ChinyiCho/Deeplearning_project/b
 * [Data pre-processing(Filtering images)](https://github.com/ChinyiCho/Deeplearning_project/blob/main/project/Filtering_Images.ipynb)
 * [Data pre-processing(Index and Sample)](https://github.com/ChinyiCho/Deeplearning_project/blob/main/project/index_and_sample.ipynb)
 * [Oversampling](https://github.com/ChinyiCho/Deeplearning_project/blob/main/project/Oversampling.ipynb)
+
+
+## Sheet music learning for converting to numbered musical notation system
+Hello there\
+This repository holds my programing projects done during the period of NYCU(National Yang Ming Chiao Tung University)credit course.
+
+Watch my *[Presentation ppt](https://github.com/ChinyiCho/Deeplearning_project/blob/main/project/presentation_GroupB_ECG_0730.pptx)
